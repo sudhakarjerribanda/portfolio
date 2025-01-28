@@ -3,10 +3,10 @@ title: Sudhakar Reddy Jerribanda
 name: Sudhakar Reddy Jerribanda
 description: Data Science Professional | Machine Learning | Database Management | AWS Certified
 url: "https://sudhakarjerribanda.github.io/portfolio" # Updated GitHub Pages URL
-baseurl: "" # Leave this empty if hosting at the root of your domain
+# baseurl: "" # Leave this empty if hosting at the root of your domain
 repository: sudhakarjerribanda/portfolio # Updated GitHub repository
 email: srippc@umsystem.edu
-twitter_username: "" # Add if you have one
+# twitter_username: "" # Add if you have one
 linkedin_username: "sudhakar-reddy-jerribanda-1845381b4" # Updated LinkedIn username
 github_username: sudhakarjerribanda # Updated GitHub username
 
@@ -57,7 +57,7 @@ seo:
     - "https://github.com/sudhakarjerribanda/portfolio" # Updated GitHub URL
 
 # Analytics (Optional)
-#google_analytics: "UA-XXXXX-X" # Replace with your Google Analytics ID
+# google_analytics: "UA-XXXXX-X" # Replace with your Google Analytics ID
 
 # Social Sharing (Optional)
 social:
