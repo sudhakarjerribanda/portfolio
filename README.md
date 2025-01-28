@@ -28,4 +28,4 @@ I hold a Master’s in Data Science from the University of Missouri Kansas City 
 Let’s connect!  
 Email: srippc@umsystem.edu  
 Phone: +1 816-609-2133  
-LinkedIn: [Your LinkedIn Profile Link]  
+LinkedIn: https://www.linkedin.com/in/sudhakar-reddy-jerribanda-1845381b4/  
